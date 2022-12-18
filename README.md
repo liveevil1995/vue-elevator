@@ -1,4 +1,4 @@
-# vue-elevator-2
+# vue-elevator
 
 ## Project setup
 ```
